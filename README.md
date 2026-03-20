@@ -23,7 +23,7 @@
 ---
 
 ## 📫 Let’s Connect
-- LinkedIn: [www.linkedin.com/in/vignesh-m17]
+- LinkedIn: [www.linkedin.com/in/vigneshoffsec]
 - Blog/Portfolio: Coming soon!
 - Email: [vigneshoffsec@proton.me]
 
